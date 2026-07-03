@@ -1,0 +1,311 @@
+## Footprint report - date 2026-07-03T18:14:44
+## Printed by KiCad version 10.0.3
+## Unit = mm, Angle = deg.
+
+$BeginDESCRIPTION
+
+$BOARD
+upper_left_corner 128.500000 34.500000
+$EndBOARD
+
+$MODULE SW1
+reference SW1
+value SW_Push
+footprint Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB
+attribut none
+position 171.460000 45.750000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -7.620000  5.080000 size  1.700000  1.700000 orientation 0.00
+drill  1.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -2.540000  5.080000 size  4.000000  4.000000 orientation 0.00
+drill  4.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  2.540000  5.080000 size  1.700000  1.700000 orientation 0.00
+drill  1.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000 size  2.200000  2.200000 orientation 0.00
+drill  1.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -6.350000  2.540000 size  2.200000  2.200000 orientation 0.00
+drill  1.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE SW1
+
+$MODULE SW2
+reference SW2
+value SW_Push
+footprint Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB
+attribut none
+position 171.460000 64.920000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -7.620000  5.080000 size  1.700000  1.700000 orientation 0.00
+drill  1.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -2.540000  5.080000 size  4.000000  4.000000 orientation 0.00
+drill  4.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  2.540000  5.080000 size  1.700000  1.700000 orientation 0.00
+drill  1.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000 size  2.200000  2.200000 orientation 0.00
+drill  1.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -6.350000  2.540000 size  2.200000  2.200000 orientation 0.00
+drill  1.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE SW2
+
+$MODULE SW3
+reference SW3
+value SW_Push
+footprint Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB
+attribut none
+position 171.460000 84.090000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -7.620000  5.080000 size  1.700000  1.700000 orientation 0.00
+drill  1.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -2.540000  5.080000 size  4.000000  4.000000 orientation 0.00
+drill  4.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  2.540000  5.080000 size  1.700000  1.700000 orientation 0.00
+drill  1.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000 size  2.200000  2.200000 orientation 0.00
+drill  1.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -6.350000  2.540000 size  2.200000  2.200000 orientation 0.00
+drill  1.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE SW3
+
+$MODULE SW4
+reference SW4
+value SW_Push
+footprint Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB
+attribut none
+position 150.585000 64.965000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -7.620000  5.080000 size  1.700000  1.700000 orientation 0.00
+drill  1.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -2.540000  5.080000 size  4.000000  4.000000 orientation 0.00
+drill  4.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  2.540000  5.080000 size  1.700000  1.700000 orientation 0.00
+drill  1.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000 size  2.200000  2.200000 orientation 0.00
+drill  1.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -6.350000  2.540000 size  2.200000  2.200000 orientation 0.00
+drill  1.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE SW4
+
+$MODULE SW6
+reference SW6
+value RotaryEncoder_Switch
+footprint Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
+attribut none
+position 139.000000 45.000000  orientation 0.00
+layer front
+$PAD "A"
+Shape Rect Layer both
+position  0.000000  0.000000 size  2.000000  2.000000 orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "B"
+Shape Circle Layer both
+position  0.000000  5.000000 size  2.000000  2.000000 orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "C"
+Shape Circle Layer both
+position  0.000000  2.500000 size  2.000000  2.000000 orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "MP"
+Shape Rect Layer both
+position  7.500000 -3.100000 size  3.200000  2.000000 orientation 0.00
+drill  2.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "MP"
+Shape Rect Layer both
+position  7.500000  8.100000 size  3.200000  2.000000 orientation 0.00
+drill  2.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "S1"
+Shape Circle Layer both
+position 14.500000  5.000000 size  2.000000  2.000000 orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "S2"
+Shape Circle Layer both
+position 14.500000  0.000000 size  2.000000  2.000000 orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE SW6
+
+$MODULE U1
+reference U1
+value MOUDLE-SEEEDUINO-XIAO
+footprint Hackpad:XIAO-Generic-Hybrid-14P-2.54-21X17.8MM
+attribut smd
+position 148.375000 91.120000  orientation 180.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position -7.625000 -7.620000 size  3.500000  1.700000 orientation 180.00
+drill  1.000000
+shape_offset -1.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position -7.625000 -5.080000 size  3.600000  1.700000 orientation 180.00
+drill  1.000000
+shape_offset -1.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Oval Layer both
+position -7.625000 -2.540000 size  3.600000  1.700000 orientation 180.00
+drill  1.000000
+shape_offset -1.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Oval Layer both
+position -7.625000  0.000000 size  3.600000  1.700000 orientation 180.00
+drill  1.000000
+shape_offset -1.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Oval Layer both
+position -7.625000  2.540000 size  3.600000  1.700000 orientation 180.00
+drill  1.000000
+shape_offset -1.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Oval Layer both
+position -7.625000  5.080000 size  3.600000  1.700000 orientation 0.00
+drill  1.000000
+shape_offset  1.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Oval Layer both
+position -7.625000  7.620000 size  3.600000  1.700000 orientation 180.00
+drill  1.000000
+shape_offset -1.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Oval Layer both
+position  7.625000  7.620000 size  3.600000  1.700000 orientation 180.00
+drill  1.000000
+shape_offset  1.000000  0.000000
+$EndPAD
+$PAD "9"
+Shape Oval Layer both
+position  7.625000  5.080000 size  3.600000  1.700000 orientation 180.00
+drill  1.000000
+shape_offset  1.000000  0.000000
+$EndPAD
+$PAD "10"
+Shape Oval Layer both
+position  7.625000  2.540000 size  3.600000  1.700000 orientation 180.00
+drill  1.000000
+shape_offset  1.000000  0.000000
+$EndPAD
+$PAD "11"
+Shape Oval Layer both
+position  7.625000  0.000000 size  3.700000  1.700000 orientation 180.00
+drill  1.000000
+shape_offset  1.000000  0.000000
+$EndPAD
+$PAD "12"
+Shape Oval Layer both
+position  7.625000 -2.540000 size  3.700000  1.700000 orientation 180.00
+drill  1.000000
+shape_offset  1.000000  0.000000
+$EndPAD
+$PAD "13"
+Shape Oval Layer both
+position  7.625000 -5.080000 size  3.700000  1.700000 orientation 180.00
+drill  1.000000
+shape_offset  1.000000  0.000000
+$EndPAD
+$PAD "14"
+Shape Oval Layer both
+position  7.625000 -7.620000 size  3.700000  1.700000 orientation 180.00
+drill  1.000000
+shape_offset  1.000000  0.000000
+$EndPAD
+$EndMODULE U1
+
+$EndDESCRIPTION
