@@ -6,3 +6,6 @@ In this project i would be design a ultra small and minimal HackPad, this remove
 - Each key would be useful.
 - This project focus more on aesthetic rather than functionality.
 - The whole Hackpad could fit in your hand.
+
+<img width="798" height="582" alt="image" src="https://github.com/user-attachments/assets/d3063269-d381-4061-a7cb-98b5cc0bb33c" />
+<img width="619" height="599" alt="image" src="https://github.com/user-attachments/assets/75f354f5-db12-4177-9423-f75cf01a17ee" />
