@@ -14,7 +14,8 @@ In this project i would be design a ultra small and minimal HackPad, this remove
 
 ## £3D Model
 <img width="798" height="582" alt="image" src="https://github.com/user-attachments/assets/d3063269-d381-4061-a7cb-98b5cc0bb33c" />
+<img width="404" height="516" alt="image" src="https://github.com/user-attachments/assets/baac2189-dcd2-45c7-8f31-4fe24614d7bc" />
 <img width="619" height="599" alt="image" src="https://github.com/user-attachments/assets/75f354f5-db12-4177-9423-f75cf01a17ee" />
 <img width="621" height="598" alt="image" src="https://github.com/user-attachments/assets/7701a4fd-217f-4fbc-8b30-c8c695916122" />
-<img width="404" height="516" alt="image" src="https://github.com/user-attachments/assets/baac2189-dcd2-45c7-8f31-4fe24614d7bc" />
+
 
