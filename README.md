@@ -18,4 +18,11 @@ In this project i would be design a ultra small and minimal HackPad, this remove
 <img width="619" height="599" alt="image" src="https://github.com/user-attachments/assets/75f354f5-db12-4177-9423-f75cf01a17ee" />
 <img width="621" height="598" alt="image" src="https://github.com/user-attachments/assets/7701a4fd-217f-4fbc-8b30-c8c695916122" />
 
-
+## BOM
+- 4x Cherry MX Switches
+- 1x EC11 Rotary Encoder
+- 1x XIAO RP2040
+- 1x Case (2 printed parts)
+- 4x DSA Keycaps
+- 2x M3x5x4 Heatset inserts
+- 2x M3x12mm SHCS Bolts
